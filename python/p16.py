@@ -1,5 +1,5 @@
 #Program to Reverse a Number
-sample_number = int(input("Enter a number: "))
+sample_number = int(input("Enter a number to reverse it: "))
 old=sample_number
 rev_num = 0
 while sample_number>0:
